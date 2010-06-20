@@ -1,0 +1,12 @@
+.smenu {
+}
+.smenu_item {
+  border:1px solid #f5deb3;
+  background-color:#ffffe0;
+  font-size:11px;
+  padding:0px 10px;
+  cursor:pointer;
+}
+.smenu_item_selection {
+  background-color:#ff7f50;
+}
